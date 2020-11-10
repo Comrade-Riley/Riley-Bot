@@ -1,0 +1,16 @@
+```
+HELP:
+  -r.help (Sends you all the general commands [the command you're using right now])
+
+  -r.help nsfw (Sends you all the nsfw Commands)
+SEARTCH:
+  -r.img <image> (finds an image for you from google (!!!NSFW images only pop up in NSFW channels!!!))
+
+  -r.music <song> (finds music for you from soundcloud (no music playing command yet))
+  
+  -r.meme (sends you a meme from r/memes)
+  
+  -r.wholesome (sends you a meme from r/wholesome)
+    
+MORE COMMANDS WILL COME SOONISH
+```

@@ -1,0 +1,12 @@
+```
+SEARTCH:
+  -r.hentai (Sends you a hentai image from r/hentai)[DOESN'T WORK IN DMS]
+
+
+  -r.pornvids (Sends you a hentai video from r/hentai)[DOESN'T WORK IN DMS]
+
+  
+  -r.pornpics (Sends you a hentai video from r/hentai)[DOESN'T WORK IN DMS]
+
+MORE COMMANDS NSFW COMMANDS MIGHT COME SOME TIME IN THE FUTURE BUT I'M WORKING ON OTHER COMMANDS AT THE MOMENT
+```

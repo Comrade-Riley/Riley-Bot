@@ -1,0 +1,7 @@
+```
+  CARTOMANCY:
+    r.cards (Sends you a cartomancy card reading with one card (or a yes or no answer (red: yes, black: no )))
+
+    r.cards <cards> (Sends you a cartomancy card with what ever amount of cards you want to use)
+  -r.pendulum <question> (Answers your yes/no questions with a virtual pendulum)
+```
