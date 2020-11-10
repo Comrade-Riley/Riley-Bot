@@ -1,5 +1,5 @@
 # Riley-Bot-WIP
-Is a multipurpose bot I'm making with python3 and discord.py
+Is a multipurpose bot I'm making with python3,discord.py and the help of chins-man
 
 # Events
 - Join/Leave events
