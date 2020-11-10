@@ -4,13 +4,28 @@ HELP:
 
   -r.help nsfw (Sends you all the nsfw Commands)
 SEARTCH:
+  
   -r.img <image> (finds an image for you from google (!!!NSFW images only pop up in NSFW channels!!!))
 
-  -r.music <song> (finds music for you from soundcloud (no music playing command yet))
+  -r.video (sends you the youtube result of a query)
   
   -r.meme (sends you a meme from r/memes)
   
   -r.wholesome (sends you a meme from r/wholesome)
     
+  - r.wiki (sends you apart of a wiki article)
+
+RANK:
+      -r.rank <mention(optional)> (check your rank on your (or someone else) discord server)
+
+      -r.ranks (check the top 5 ranks on your discord server)
+
+FUN:
+    r.howsus <mention(optional)> (joke command to see "how sus" you or another user is in your discord server)
+
+MOD:
+    r.purge <int> (purges a number of messages)
+
+
 MORE COMMANDS WILL COME SOONISH
 ```
