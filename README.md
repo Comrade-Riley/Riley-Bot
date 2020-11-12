@@ -1,6 +1,8 @@
 # Riley-Bot-WIP
 Is a multipurpose bot I'm making with python3,discord.py and the help of chins-man
 
+# Invite link
+  https://discord.com/oauth2/authorize?client_id=736599014551584808&permissions=8&scope=bot
 # Events
 - Join/Leave events
 - OnMessage event (for levels)
